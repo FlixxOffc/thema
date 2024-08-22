@@ -21,7 +21,7 @@ display_welcome() {
   echo -e "dilarang keras untuk memperjual belikan."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "https://t.me/FlixxOfficiall"
+  echo -e "t.me/FlixxOfficiall"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
   echo -e "©FlixxOfficiall"
   sleep 4
@@ -68,7 +68,7 @@ check_token() {
     echo -e "${GREEN}Buy dulu Gih Ke FlixxOffc${NC}"
     echo -e "${YELLOW}TELEGRAM : t.me/FlixxOfficiall${NC}"
     echo -e "${YELLOW}WHATSAPP : 628386045434{NC}"
-    echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
+    echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
     echo -e "${YELLOW}©FlixxOffc${NC}"
     exit 1
   fi
